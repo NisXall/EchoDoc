@@ -1,10 +1,11 @@
 import React from 'react'
+import HeroSection from '@/components/HeroSection'
 
 const page = () => {
   return (
-    <div>
-      {/* <h1 className = "text-2xl underline">EchoDoc</h1> */}
-    </div>
+    <main>
+      <HeroSection />
+    </main>
   )
 }
 
