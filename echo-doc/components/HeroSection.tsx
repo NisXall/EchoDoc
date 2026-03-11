@@ -5,7 +5,7 @@ import { Plus } from 'lucide-react';
 
 const HeroSection = () => {
   return (
-    <div className="flex items-center justify-center p-6 py-24">
+    <div className="mb-10 md:mb-16 flex items-center justify-center p-6 py-24">
       {/* Main Card Container */}
       <div className="w-full max-w-7xl h-80 rounded-3xl overflow-hidden shadow-2xl bg-gradient-to-br from-amber-100 via-orange-100 to-yellow-100">
         <div className="grid grid-cols-1 md:grid-cols-5 gap-0 h-full">
